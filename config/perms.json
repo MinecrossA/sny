@@ -11,7 +11,9 @@
     "1133433338993066156"
   ],
   "Blacklisted-Users": [],
-  "advancedRules": false,
-  "cond.nitro": false
+  "advancedRules": true,
+  "advancedRuleNodes": {
+    "cond.nitro": false
+  }
 }
 
