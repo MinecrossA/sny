@@ -10,8 +10,13 @@
   "High-Perm-Users": [
     "1133433338993066156"
   ],
-  "Blacklisted-Users": [],
-  "whitelisting": true
-  
+  "Blacklisted-Users": [
+  {"id":"792071359689392188", "until":"1789665470", "note":"bann" }
+  ],
+  "whitelisting": false,
+  "Whitelisted-Users": [],
+  "Whitelisted-Roles": [],
+  "otherServers": true,
+  "advancedRules": true  
 }
 
