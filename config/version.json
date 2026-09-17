@@ -6,4 +6,7 @@
         "hata alıyosan alaman daha fazla",
         "alma zaten"
     ]
+    "properties" {
+        "necessity": true
+    }
 }
