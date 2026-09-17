@@ -8,10 +8,10 @@
     "556118269208297472"
   ],
   "High-Perm-Users": [
+    "792071359689392188"
     "1133433338993066156"
   ],
-  "Blacklisted-Users": [
-    {"id":"792071359689392188", "until":"1789658640", "note":"küfür"}
-  ]
+  "Blacklisted-Users": [],
+  "advancedRules": false
 }
 
