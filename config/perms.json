@@ -11,11 +11,11 @@
     "1133433338993066156"
   ],
   "Blacklisted-Users": [
-  {"id":"792071359689392188", "until":"1789674420", "note":"bann" }
+  {"id":"792071359689392188", "until":"1789676581", "note":"bann" }
   ],
   "whitelisting": false,
   "Whitelisted-Users": [],
   "Whitelisted-Roles": [],
   "otherServers": true,
-  "advancedRules": false  
+  "advancedRules": true
 }
