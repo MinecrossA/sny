@@ -17,6 +17,6 @@
   "Whitelisted-Users": [],
   "Whitelisted-Roles": [],
   "otherServers": true,
-  "advancedRules": true  
+  "advancedRules": false  
 }
 
