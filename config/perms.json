@@ -13,7 +13,10 @@
   ],
   "Blacklisted-Users": [],
   "whitelisting": true,
-  "Whitelisted-Users": [],
+  "Whitelisted-Users": [
+    "1461816557884805286",
+    "689430053926600809"
+  ],
   "Whitelisted-Roles": [],
   "otherServers": true,
   "advancedRules": true
