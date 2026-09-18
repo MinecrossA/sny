@@ -12,7 +12,7 @@
     "792071359689392188"
   ],
   "Blacklisted-Users": [],
-  "whitelisting": false,
+  "whitelisting": true,
   "Whitelisted-Users": [],
   "Whitelisted-Roles": [],
   "otherServers": true,
